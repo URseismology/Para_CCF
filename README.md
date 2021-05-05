@@ -21,7 +21,7 @@ run get_BH_CCF.m in matlab
  
 4. Set IsOutputFullstack = 1 to get the output of full-stack CCF in matlab format
   
-5. Set IsFigure1 = 0 to get plots of the CCF result (not recommended to do this in paralle job; it might crush matlab)
+5. Set IsFigure1 = 1 to get plots of the CCF result (not recommended to do this in paralle job; it might crush matlab)
 
 6. Set IsSaveTxt = 1 to get the text files needed for the future study (zero_crossing, fitting Bessel function...) using AkiEstimate
 
